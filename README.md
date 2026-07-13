@@ -1,6 +1,6 @@
 # 🎮 XO Game
 
-A simple Tic-Tac-Toe (XO) game built using C# and Windows Forms.
+## A simple Tic-Tac-Toe (XO) game built using C# and Windows Forms.
 
 ## 📸 Screenshot
 
